@@ -1,1 +1,1 @@
-Sitemap: https://makelalab.github.io/Makelalab/sitemap.xml
+Sitemap: https://makelalab.github.io/sitemap.xml
