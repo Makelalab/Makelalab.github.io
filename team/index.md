@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 We are building an interdisciplinary team combining cell biology, computational biology, machine learning, and biophysics approaches to understand how the complex cellular environment affects single molecule dynamics and function.
-If you are interested in joining the lab, please contact Veijo.
+If you are interested in joining the lab, please contact Jarno.
 
 {% include section.html %}
 
