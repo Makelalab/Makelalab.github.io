@@ -1,209 +1,404 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1126/sciadv.adl3570
+  title: Dynamics of bacterial operons during genome-wide stresses is influenced by
+    premature terminations and internal promoters
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Rahul Jagadeesan
+  - Suchintak Dash
+  - Cristina S. D. Palma
+  - Ines S. C. Baptista
+  - Vatsala Chauhan
+  - "Jarno M\xE4kel\xE4"
+  - Andre S. Ribeiro
+  publisher: Science Advances
+  date: '2025-05-16'
+  link: https://doi.org/hb9ghh
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1111/mmi.15347
+  title: Future Directions of the Prokaryotic Chromosome Field
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - E. A. Abbondanzieri
+  - A. B. Badrinarayanan
+  - "D. Barill\xE0"
+  - S. D. Bell
+  - F. Blombach
+  - J. Y. Bouet
+  - S. Bulgheresi
+  - Q. A. D. Cao
+  - R. T. Dame
+  - C. Dekker
+  - M. Demuysere
+  - "O. Esp\xE9li"
+  - P. C. M. Fogg
+  - P. L. Freddolino
+  - M. Ganji
+  - T. M. Gerson
+  - D. C. Grainger
+  - L. W. Hamoen
+  - J. Harju
+  - A. Hocher
+  - C. M. Hustmyer
+  - J. K. Kaljevic
+  - M. K. Karney
+  - N. Kleckner
+  - G. Laloux
+  - R. Landick
+  - V. S. Lioy
+  - W. L. Liu
+  - C. L. Liu
+  - "J. M\xE4kel\xE4"
+  - A. S. Meyer
+  - A. Noy
+  - M. P. Pineau
+  - K. Premrajka
+  - L. R. Racki
+  - "F\u2010Z. M. Rashid"
+  - K. Schnetz
+  - S. Schwab
+  - "M. Ti\u0161ma"
+  - A. I. van der Sijs
+  - T. van Heesch
+  - R. van Raaphorst
+  - J. Vreede
+  - A. W. Walker
+  - "J\u2010C. Walter"
+  - S. C. Weber
+  - P. A. Wiggins
+  - H. J. Wing
+  - J. Xiao
+  - Z. Zhang
+  publisher: Molecular Microbiology
+  date: '2025-02-01'
+  link: https://doi.org/g9gdvr
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.97465
+  title: Genome concentration limits cell growth and modulates proteome composition
+    in Escherichia coli
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - Alexandros Papagiannakis
+  - Wei-Hsiang Lin
+  - Michael Charles Lanz
+  - Skye Glenn
+  - Matthew Swaffer
+  - Georgi K Marinov
+  - Jan M Skotheim
+  - Christine Jacobs-Wagner
+  publisher: eLife
+  date: '2024-12-23'
+  link: https://doi.org/hb9ghj
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.02.26.582181
+  title: "Genome concentration limits cell growth and modulates proteome composition\
+    \ in\n                  <i>Escherichia coli</i>"
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - Alexandros Papagiannakis
+  - Wei-Hsiang Lin
+  - Michael C. Lanz
+  - Skye Glenn
+  - Matthew Swaffer
+  - Georgi K. Marinov
+  - Jan M. Skotheim
+  - Christine Jacobs-Wagner
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2024-02-29'
+  link: https://doi.org/hb9ghk
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41467-021-27107-9
+  title: Acyl carrier protein promotes MukBEF action in Escherichia coli chromosome
+    organization-segregation
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
+  - Josh P. Prince
+  - Jani R. Bolla
+  - Gemma L. M. Fisher
+  - "Jarno M\xE4kel\xE4"
+  - Marjorie Fournier
+  - Carol V. Robinson
+  - Lidia K. Arciszewska
+  - David J. Sherratt
+  publisher: Nature Communications
+  date: '2021-11-18'
+  link: https://doi.org/hb9ghm
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/elife.70444
+  title: Competitive binding of MatP and topoisomerase IV to the MukB hinge domain
+  authors:
+  - Gemma LM Fisher
+  - Jani R Bolla
+  - Karthik V Rajasekar
+  - "Jarno M\xE4kel\xE4"
+  - Rachel Baker
+  - Man Zhou
+  - Josh P Prince
+  - Mathew Stracy
+  - Carol V Robinson
+  - Lidia K Arciszewska
+  - David J Sherratt
+  publisher: eLife
+  date: '2021-09-29'
+  link: https://doi.org/hb9ghn
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2022078118
+  title: "Nonrandom segregation of sister chromosomes by\n                    <i>Escherichia\
+    \ coli</i>\n                    MukBEF"
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - Stephan Uphoff
+  - David J. Sherratt
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-08-12'
+  link: https://doi.org/hb9ghp
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00294-020-01076-w
+  title: SMC complexes organize the bacterial chromosome by lengthwise compaction
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - David Sherratt
+  publisher: Current Genetics
+  date: '2020-04-16'
+  link: https://doi.org/hb9ghq
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41579-020-0337-8
+  title: Catching an invader
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - David J. Sherratt
+  publisher: Nature Reviews Microbiology
+  date: '2020-02-14'
+  link: https://doi.org/hb9ghr
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcel.2020.02.003
+  title: Organization of the Escherichia coli Chromosome by a MukBEF Axial Core
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - David J. Sherratt
+  publisher: Molecular Cell
+  date: '2020-04-01'
+  link: https://doi.org/gg7sf4
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkz696
+  title: Dynamic architecture of the Escherichia coli structural maintenance of chromosomes
+    (SMC) complex, MukBEF
+  authors:
+  - Karthik V Rajasekar
+  - Rachel Baker
+  - "Gemma L\_M Fisher"
+  - Jani R Bolla
+  - "Jarno M\xE4kel\xE4"
+  - Minzhe Tang
+  - Katarzyna Zawadzka
+  - Oliwia Koczy
+  - Florence Wagner
+  - Carol V Robinson
+  - Lidia K Arciszewska
+  - David J Sherratt
   publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  date: '2019-08-10'
+  link: https://doi.org/hb9ghs
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.7554/elife.46564
+  title: Self-organised segregation of bacterial chromosomal origins
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Andreas Hofmann
+  - "Jarno M\xE4kel\xE4"
+  - David J Sherratt
+  - Dieter Heermann
+  - "Se\xE1n M Murray"
+  publisher: eLife
+  date: '2019-08-09'
+  link: https://doi.org/hb9ght
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1088/1361-6463/aaf255
+  title: 'Choosing the right label for single-molecule tracking in live bacteria:
+    side-by-side comparison of photoactivatable fluorescent protein and Halo tag dyes'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
+  - Nehir Banaz
+  - "Jarno M\xE4kel\xE4"
+  - Stephan Uphoff
+  publisher: 'Journal of Physics D: Applied Physics'
+  date: '2018-12-06'
+  link: https://doi.org/gst8qt
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-017-11257-2
+  title: Rate-limiting steps in transcription dictate sensitivity to variability in
+    cellular components
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - Vinodh Kandavalli
+  - Andre S. Ribeiro
+  publisher: Scientific Reports
+  date: '2017-09-06'
+  link: https://doi.org/gbw2n5
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mmi.13257
+  title: Increased cytoplasm viscosity hampers aggregate polar segregation in <i>Escherichia
+    coli</i>
+  authors:
+  - Samuel M. D. Oliveira
+  - "Ramakanth Neeli\u2010Venkata"
+  - Nadia S. M. Goncalves
+  - "Jo\xE3o A. Santinha"
+  - Leonardo Martins
+  - Huy Tran
+  - "Jarno M\xE4kel\xE4"
+  - Abhishekh Gupta
+  - Marilia Barandas
+  - "Antti H\xE4kkinen"
+  - "Jason Lloyd\u2010Price"
+  - "Jos\xE9 M. Fonseca"
+  - Andre S. Ribeiro
+  publisher: Molecular Microbiology
+  date: '2015-11-17'
+  link: https://doi.org/f799mn
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nmeth.2576
+  title: 'ESTOOLS Data@Hand: human stem cell gene expression resource'
+  authors:
+  - Lingjia Kong
+  - Kaisa-Leena Aho
+  - Kirsi Granberg
+  - Riikka Lund
+  - "Laura J\xE4rvenp\xE4\xE4"
+  - "Janne Sepp\xE4l\xE4"
+  - Paul Gokhale
+  - Kalle Leinonen
+  - Lauri Hahne
+  - "Jarno M\xE4kel\xE4"
+  - Kirsti Laurila
+  - Heidi Pukkila
+  - "Elisa N\xE4rv\xE4"
+  - Olli Yli-Harja
+  - Peter W Andrews
+  - Matti Nykter
+  - Riitta Lahesmaa
+  - Christophe Roos
+  - Reija Autio
+  publisher: Nature Methods
+  date: '2013-08-29'
+  link: https://doi.org/hb9ghv
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkt350
+  title: In vivo single-molecule kinetics of activation and subsequent activity of
+    the arabinose promoter
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - Meenakshisundaram Kandhavelu
+  - Samuel M. D. Oliveira
+  - Jerome G. Chandraseelan
+  - Jason Lloyd-Price
+  - Juha Peltonen
+  - Olli Yli-Harja
+  - Andre S. Ribeiro
   publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  date: '2013-05-03'
+  link: https://doi.org/hb9ghw
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.jtbi.2012.08.029
+  title: Effects of codon sequence on the dynamics of genetic networks
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Ilya Potapov
+  - "Jarno M\xE4kel\xE4"
+  - Olli Yli-Harja
+  - Andre S. Ribeiro
+  publisher: Journal of Theoretical Biology
+  date: '2012-12-01'
+  link: https://doi.org/f4ghjj
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.jtbi.2012.02.015
+  title: Dynamics of transcription of closely spaced promoters in Escherichia coli,
+    one event at a time
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Leonardo Martins
+  - "Jarno M\xE4kel\xE4"
+  - "Antti H\xE4kkinen"
+  - Meenakshisundaram Kandhavelu
+  - Olli Yli-Harja
+  - "Jos\xE9 M. Fonseca"
+  - Andre S. Ribeiro
+  publisher: Journal of Theoretical Biology
+  date: '2012-05-01'
+  link: https://doi.org/f3wsp2
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1093/bioinformatics/bts073
+  title: 'Mytoe: automatic analysis of mitochondrial dynamics'
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Eero Lihavainen
+  - "Jarno M\xE4kel\xE4"
+  - Johannes N. Spelbrink
+  - Andre S. Ribeiro
+  publisher: Bioinformatics
+  date: '2012-02-09'
+  link: https://doi.org/grwwbv
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1093/bioinformatics/btr471
+  title: Automatic detection of changes in the dynamics of delayed stochastic gene
+    networks and <i>in vivo</i> production of RNA molecules in <i>Escherichia coli</i>
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Jarno M\xE4kel\xE4"
+  - Heikki Huttunen
+  - Meenakshisundaram Kandhavelu
+  - Olli Yli-Harja
+  - Andre S. Ribeiro
+  publisher: Bioinformatics
+  date: '2011-08-10'
+  link: https://doi.org/fhxzvv
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-12-121
+  title: Stochastic sequence-level model of coupled transcription and translation
+    in prokaryotes
+  authors:
+  - "Jarno M\xE4kel\xE4"
+  - Jason Lloyd-Price
+  - Olli Yli-Harja
+  - Andre S Ribeiro
+  publisher: BMC Bioinformatics
+  date: '2011-04-26'
+  link: https://doi.org/bqbjxd
+  orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +414,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +430,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
