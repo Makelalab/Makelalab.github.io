@@ -38,8 +38,8 @@ The Single-Molecule Dynamics in Cells group takes an interdisciplinary approach 
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ The Single-Molecule Dynamics in Cells group takes an interdisciplinary approach 
 {%
   include feature.html
   image="images/journal_cover.png"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Publications"
   flip=true
   style="bare"
   text=text
