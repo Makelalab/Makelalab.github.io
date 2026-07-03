@@ -3,5 +3,4 @@ name: Aakeel Ahmad Wagay
 position: 7
 image: images/photo.jpg
 role: phd
-
 ---
