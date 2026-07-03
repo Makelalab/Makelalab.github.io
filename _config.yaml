@@ -2,18 +2,17 @@
 title: Makelalab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/cells.png
+footer: images/cells.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@Makelalab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: jarno.p.makela@aalto.fi
+  orcid: 0000-0003-1844-2619
+  google-scholar: o3d4lzUAAAAJ
   github: Makelalab
   twitter: Makelalab
-  youtube: Makelalab
 
 ### jekyll settings
 
