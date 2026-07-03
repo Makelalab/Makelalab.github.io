@@ -3,5 +3,4 @@ name: Ada Pajari
 position: 6
 image: images/photo.jpg
 role: phd
-
 ---
