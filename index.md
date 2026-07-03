@@ -1,9 +1,9 @@
 ---
 ---
 
-# Makelalab's Website
+# Single-Molecule Dynamics in Cells
 
-An engaging 1-3 sentence description of your lab.
+We work at the interface between physics, chemistry, and biology with a particular focus on the spatiotemporal organization of intracellular environment, single molecule dynamics, and cellular responses to environmental perturbations.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use super-resolution microscopy and single molecule tracking to record the movement of individual molecules inside individual live cells. Single molecule dynamics report on the molecular interactions in real-time, acting as a probe for the intracellular environment. The research will also contribute to the development of robust synthetic biology applications and novel assay solutions.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cells.png"
   link="research"
   title="Our Research"
   text=text
