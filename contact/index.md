@@ -20,7 +20,7 @@ touch by email.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="maps.app.goo.gl/iJodG6p8SBAbW1Cw7"
+  link="https://maps.app.goo.gl/iJodG6p8SBAbW1Cw7"
 %}
 
 {% include section.html %}
