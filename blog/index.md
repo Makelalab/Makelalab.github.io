@@ -3,19 +3,28 @@ title: Blog
 nav:
   order: 4
   tooltip: Musings and miscellany
+paginate: true
+paginate_size: 10
+paginate_path: "/blog/page:num/"
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Updates, announcements, and occasional notes from the Salo Lab
 
 {% include section.html %}
 
+{% include list.html
+   data="posts"
+   component="post-excerpt"
+   limit=999
+%}
+
+
+{% comment %}
+Enable these later when you have more posts:
+
 {% include search-box.html %}
-
 {% include tags.html tags=site.tags %}
-
 {% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
+{% endcomment %}
