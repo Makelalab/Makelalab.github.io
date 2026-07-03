@@ -26,7 +26,7 @@ We use super-resolution microscopy and single molecule tracking to record the mo
 
 {%
   include feature.html
-  image="images/cells.png"
+  image="images/microscope.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ We use super-resolution microscopy and single molecule tracking to record the mo
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Single-Molecule Dynamics in Cells group takes an interdisciplinary approach to solve fundamental questions about how living systems adapt to extreme environments, employing a range of techniques from biophysics, molecular biology, genetics, to computational biology. 
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/journal_cover.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Mäkelä Lab launches in 204 at Aalto University.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tubes.jpg"
   link="team"
   title="Our Team"
   text=text
