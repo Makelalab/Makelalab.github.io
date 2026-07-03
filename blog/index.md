@@ -10,7 +10,7 @@ paginate_path: "/blog/page:num/"
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Updates, announcements, and occasional notes from the Salo Lab
+Updates, announcements, and occasional notes from the Mäkelä Lab
 
 {% include section.html %}
 
