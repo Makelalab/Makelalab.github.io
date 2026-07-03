@@ -25,4 +25,4 @@ touch by email.
 
 {% include section.html %}
 
-Delivery address: Otakaari 3, 02150 Espoo, Finland
+Delivery address: Otakaari 3, 02150 Espoo, Finland.
