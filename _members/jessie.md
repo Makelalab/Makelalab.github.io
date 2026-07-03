@@ -1,6 +1,5 @@
 ---
 name: Jessie Bullock
-position: 4
 image: images/photo.jpg
 role: postdoc
 ---
