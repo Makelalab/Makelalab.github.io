@@ -1,7 +1,7 @@
 ---
 ---
 
-# Single-Molecule Dynamics in Cells
+# Our mission
 
 We work at the interface between physics, chemistry, and biology with a particular focus on the spatiotemporal organization of intracellular environment, single molecule dynamics, and cellular responses to environmental perturbations.
 
