@@ -1,6 +1,6 @@
 ---
 name: Jarno Mäkelä
-image: images/photo.jpg
+image: images/Jarno_square.png
 position: 1
 role: principal-investigator
 links:
