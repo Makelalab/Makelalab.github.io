@@ -59,7 +59,7 @@ The Single-Molecule Dynamics in Cells group takes an interdisciplinary approach 
 
 {% capture text %}
 
-The Mäkelä Lab launches in 204 at Aalto University.
+The Mäkelä Lab launched in 2024 at Aalto University.
 
 {%
   include button.html
