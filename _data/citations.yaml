@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.07.01.735817
+  title: Bacterial Hsp70 DnaK transiently samples the proteome to rapidly capture
+    stress-induced misfolding
+  authors:
+  - Ada Pajari
+  - Taras Redchuk
+  - "Jarno M\xE4kel\xE4"
+  publisher: openRxiv
+  date: '2026-07-02'
+  link: https://doi.org/hb9kc9
+  orcid: 0000-0003-1844-2619
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/sciadv.adl3570
   title: Dynamics of bacterial operons during genome-wide stresses is influenced by
     premature terminations and internal promoters
@@ -76,7 +89,7 @@
   orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.97465
+- id: doi:10.7554/eLife.97465.3
   title: Genome concentration limits cell growth and modulates proteome composition
     in Escherichia coli
   authors:
@@ -91,26 +104,7 @@
   - Christine Jacobs-Wagner
   publisher: eLife
   date: '2024-12-23'
-  link: https://doi.org/hb9ghj
-  orcid: 0000-0003-1844-2619
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2024.02.26.582181
-  title: "Genome concentration limits cell growth and modulates proteome composition\
-    \ in\n                  <i>Escherichia coli</i>"
-  authors:
-  - "Jarno M\xE4kel\xE4"
-  - Alexandros Papagiannakis
-  - Wei-Hsiang Lin
-  - Michael C. Lanz
-  - Skye Glenn
-  - Matthew Swaffer
-  - Georgi K. Marinov
-  - Jan M. Skotheim
-  - Christine Jacobs-Wagner
-  publisher: openRxiv
-  date: '2024-02-29'
-  link: https://doi.org/hb9ghk
+  link: https://doi.org/hb9kdb
   orcid: 0000-0003-1844-2619
   plugin: orcid.py
   file: orcid.yaml
